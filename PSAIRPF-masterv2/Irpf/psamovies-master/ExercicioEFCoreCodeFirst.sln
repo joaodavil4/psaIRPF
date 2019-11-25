@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEFCoreCodeFirst", "ExercicioEFCoreCodeFirst\ExercicioEFCoreCodeFirst.csproj", "{01059D9C-AB77-443F-9914-796CFB93872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01059D9C-AB77-443F-9914-796CFB93872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01059D9C-AB77-443F-9914-796CFB93872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01059D9C-AB77-443F-9914-796CFB93872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01059D9C-AB77-443F-9914-796CFB93872B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F0E58C-D540-4CEA-BB16-D3A001D525AE}
+	EndGlobalSection
+EndGlobal
